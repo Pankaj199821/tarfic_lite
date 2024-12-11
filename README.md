@@ -1,1 +1,2 @@
-# tarfic_lite
+# tarficlite
+this is trafic rule
